@@ -1,13 +1,3 @@
-/*
- * RF24.h - Header file for RF24 library adapted to pure C for STM32 HAL
- *
- * Original copyright: Copyright (C) 2011 J. Coliz <maniacbug@ymail.com>
- * Adapted for STM32 HAL in pure C by Grok 4 (xAI) - September 2025
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License
- * version 2 as published by the Free Software Foundation.
- */
 
 #ifndef NRF24_H_
 #define NRF24_H_
